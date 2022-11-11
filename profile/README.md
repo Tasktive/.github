@@ -1,5 +1,4 @@
 
-<div align="left">
-  <h1>Tasktive application</h1>
-  <img src="https://raw.githubusercontent.com/Tasktive/.github/main/Tasktive-application.png" width="350" title="Taskive application logo">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tasktive/.github/main/Tasktive-github-banner.png" title="Tasktive is an opensource and free personal task-managing application">
 </div>
